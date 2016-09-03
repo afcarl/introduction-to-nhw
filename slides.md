@@ -1,11 +1,7 @@
 class: center, middle
 
 ### **Welcome to**
-## **Neurohackweek!**
-
-### Ariel Rokem
-
-<image src="images/eScience_Logo_RGB_PP.png">
+## **Neurohackweek**
 
 <small>Follow along at: <a href="https://neurohackweek.github.io/introduction-to-nhw">neurohackweek.github.io/introduction-to-nhw</small>
 
