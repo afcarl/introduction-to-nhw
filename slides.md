@@ -189,9 +189,27 @@ layout: true
 
 ---
 
-### A few key points
+### This is a bit of an experiment
 
 --
+
+- Based on the theory of <a href="https://en.wikipedia.org/wiki/Inquiry-based_learning">Inquiry-based learning</a>
+
+--
+
+- The hypothesis : learning by doing is fun and effective
+
+--
+
+(but <a href="http://www.cogtech.usc.edu/publications/kirschner_Sweller_Clark.pdf">might not work for novices</a>)
+
+--
+
+(we welcome suggestions on measurements we should be making to test this hypothesis)
+
+---
+
+### So
 
 - Have fun!
 
@@ -246,4 +264,4 @@ Name, where from, one point of expertise
 
 --
 
-"I am Ariel Rokem; I am a data scientistt at the University of Washington, in Seattle; I know how to analyze diffusion MRI data"
+"I am Ariel Rokem; I am a data scientist at the University of Washington, in Seattle; I know how to analyze diffusion MRI data"
