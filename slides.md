@@ -26,7 +26,7 @@ layout: true
 
 --
 
-- ...but also a conference...
+- ...but also an (un)conference...
 
 --
 
@@ -145,6 +145,8 @@ to Tal Yarkoni, Satra Ghosh and the Nipype team, and Russ Poldrack
 - Tutorials today
 - Lectures in the mornings
 - Hackathon in the afternoons
+- Breakout sessions in the afternoons
+- Other activities ... up to you!
 
 ---
 
@@ -182,6 +184,24 @@ layout: true
 
 ---
 
+### So...
+
+- Have fun!
+
+--
+
+- Ask questions!
+
+--
+
+- Meet new people!
+
+--
+
+- We're all here to learn!
+
+---
+
 ### Locations:
 
 <iframe src="https://neurohackweek.github.io/nhw2016/img/map.html" height="500" width="500"></iframe>
@@ -206,24 +226,6 @@ layout: true
 
 <div style="position: absolute; left: 650px; top: 370px;">
 <image src="images/escience-network.png" width=500px style="opacity:0.4;filter:alpha(opacity=40);"> </div>
-
----
-
-### So
-
-- Have fun!
-
---
-
-- Ask questions!
-
---
-
-- Meet new people!
-
---
-
-- We're all here to learn!
 
 ---
 
