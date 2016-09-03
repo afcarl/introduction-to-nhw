@@ -129,14 +129,61 @@ Advancing data-intensive discovery in all fields
 
 Today : tutorials about tools
 
-Tue-Thu : morning lectures, followed by hack sessions
+Tue-Thu : morning lectures at OUGL
+
+, followed by hack sessions
+
+Fri : more morning lectures
 
 ---
 
-###
+### Locations:
+
+<iframe src="https://neurohackweek.github.io/nhw2016/img/map.html" height="500" width="500"></iframe>
+
 
 ---
 
+
+
+### A few key points
+
+--
+
+- Have fun!
+
+--
+
+- Ask questions!
+
+--
+
+- Meet new people!
+
+--
+
+- We're all here to learn!
+
+---
+
+### Now some of you might be thinking
+
+--
+
+- "I don't belong here"
+
+--
+
+- "I am not a great programmer at all"
+
+--
+
+- "When they figure out, they probably won't want to work with me"
+
+--
+### (please) banish these thoughts!
+
+---
 
 class: center
 layout: false
