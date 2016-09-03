@@ -205,7 +205,11 @@ layout: true
 
 --
 
-(we welcome suggestions on measurements we should be making to test this hypothesis)
+- Diversity of backgrounds and expertise can be challenging in traditional learning settings, but is helpful in inquiry-based learning.
+
+--
+
+(we welcome suggestions on measurements we should be making to test these hypotheses)
 
 ---
 
