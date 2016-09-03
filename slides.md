@@ -7,7 +7,7 @@ class: center, middle
 
 <image src="images/eScience_Logo_RGB_PP.png">
 
-<small>Follow along at: <a href="">neurohackweek.github.io/introduction-to-neurohackweek</small>
+<small>Follow along at: <a href="https://neurohackweek.github.io/introduction-to-nhw">neurohackweek.github.io/introduction-to-nhw</small>
 
 ---
 
@@ -46,7 +46,7 @@ layout: true
 
 --
 
-- ... telling each other about our own research
+- ... telling each other about our research
 
 --
 
@@ -78,11 +78,29 @@ layout: true
 
 ---
 
-### A few words about "data science"
+class: center, middle
+layout: false
 
-What is this thing?
+
+#### "Neuroimaging and Data Science"
+
+<div style="position: absolute; left: 650px; top: 370px;">
+<image src="images/escience-network.png" width=500px style="opacity:0.4;filter:alpha(opacity=40);"> </div>
 
 ---
+
+layout: true
+
+<div style="position: absolute; left: 650px; top: 370px;">
+<image src="images/escience-network.png" width=500px style="opacity:0.4;filter:alpha(opacity=40);"> </div>
+
+---
+
+### A few words about "data science"
+
+What's that?
+
+--
 
 <image src="images/Data_Science_VD.png" height=300px>
 
@@ -111,10 +129,7 @@ Attributed to Jeff Hammerbacher and DJ Patil (LinkedIn, circa 2008)
 
 ---
 
-### The eScience Institute
-
-Advancing data-intensive discovery in all fields
-
+<image src="images/eScience_Logo_PMS.png" height=150px>
 ---
 
 ### Data science in academia
@@ -123,17 +138,27 @@ Advancing data-intensive discovery in all fields
 
 #### <a href="http://msdse.org/">Moore-Sloan Data Science Environments</a>
 
+We're grateful for additional support for this through NIH grants
+
+to Tal Yarkoni, Satra Ghosh and the Nipype team, and Russ Poldrack
+
 ---
 
 ### This week
 
-Today : tutorials about tools
+- Tutorials today
+- Lectures in the mornings
+- Hackathon in the afternoons
 
-Tue-Thu : morning lectures at OUGL
+---
 
-, followed by hack sessions
+layout: true
 
-Fri : more morning lectures
+---
+
+### <a href="https://neurohackweek.github.io/nhw2016/#schedule">This week</a>
+
+<iframe src="https://neurohackweek.github.io/nhw2016/#schedule" height="500" width="800"></iframe>
 
 ---
 
@@ -141,10 +166,28 @@ Fri : more morning lectures
 
 <iframe src="https://neurohackweek.github.io/nhw2016/img/map.html" height="500" width="500"></iframe>
 
+---
+
+### Today (DS tutorials)
+
+| Time | Room 1 (C520) | Room 2 (DSS SR) | Room 3 (DSS MR) |
+|:------------- |:-------:|:-------:|:-------:|
+| 11 AM - noon | Docker (CG) | Advanced Unix and Make (TM) | Unix shell (VS) |
+| noon - 1 PM | -- | **Lunch** | -- |
+| 1 - 2 PM | Python tips and tricks (TY) | Git/Github 1 (BH) | Python 1 (AR) |
+| 2 - 3 PM | IPython tips and tricks (FP) | Git/Github 2 (BH)| Python 2 (AR) |
+| 3 - 4 PM | Advanced data manipulation (TY) | Software testing (SG) | Python 1 (VS)|
+| 4 - 5 PM | Spark (JF) | Advanced Unix and Make (TM) | Python 2 (VS) |
+| 5 - 6 PM | Data visualization (TY)| Cython (AR) | Software testing (CG) |
 
 ---
 
+layout: true
 
+<div style="position: absolute; left: 650px; top: 370px;">
+<image src="images/escience-network.png" width=500px style="opacity:0.4;filter:alpha(opacity=40);"> </div>
+
+---
 
 ### A few key points
 
