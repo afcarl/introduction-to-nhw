@@ -162,6 +162,30 @@ layout: true
 
 ---
 
+### This is a bit of an experiment
+
+--
+
+- Based on the theory of <a href="https://en.wikipedia.org/wiki/Inquiry-based_learning">Inquiry-based learning</a>
+
+--
+
+- The hypothesis : learning by doing is fun and effective
+
+--
+
+(but <a href="http://www.cogtech.usc.edu/publications/kirschner_Sweller_Clark.pdf">might not work for novices</a>)
+
+--
+
+- Diversity of backgrounds and expertise can be challenging in traditional learning settings, but is helpful in inquiry-based learning.
+
+--
+
+(we welcome suggestions on measurements we should be making to test these hypotheses)
+
+---
+
 ### Locations:
 
 <iframe src="https://neurohackweek.github.io/nhw2016/img/map.html" height="500" width="500"></iframe>
@@ -186,30 +210,6 @@ layout: true
 
 <div style="position: absolute; left: 650px; top: 370px;">
 <image src="images/escience-network.png" width=500px style="opacity:0.4;filter:alpha(opacity=40);"> </div>
-
----
-
-### This is a bit of an experiment
-
---
-
-- Based on the theory of <a href="https://en.wikipedia.org/wiki/Inquiry-based_learning">Inquiry-based learning</a>
-
---
-
-- The hypothesis : learning by doing is fun and effective
-
---
-
-(but <a href="http://www.cogtech.usc.edu/publications/kirschner_Sweller_Clark.pdf">might not work for novices</a>)
-
---
-
-- Diversity of backgrounds and expertise can be challenging in traditional learning settings, but is helpful in inquiry-based learning.
-
---
-
-(we welcome suggestions on measurements we should be making to test these hypotheses)
 
 ---
 
