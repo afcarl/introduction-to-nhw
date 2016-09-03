@@ -221,6 +221,10 @@ layout: true
 
 --
 
+- "I don't know enough about neuroscience yet to make a new contribution"
+
+--
+
 - "When they figure out, they probably won't want to work with me"
 
 --
@@ -228,26 +232,18 @@ layout: true
 
 ---
 
-class: center
+class: center, middle
 layout: false
 
-<div style="position:absolute; left: 220px; top:100px;">
-  <img src="images/globe-xxl.png" width="100px;" style="background:none; border:none; box-shadow:none;">
-  <div style="position:absolute; left: 120px; top:40px;">http://arokem.org
-  </div>
-</div>
-<div style="position:absolute; left: 220px; top:220px;">
-  <img src="images/email-11-xxl.png" width="100px;" style="background:none; border:none; box-shadow:none;">
-  <div style="position:absolute; left: 120px; top:40px;">arokem@gmail.com
-  </div>
-</div>
-<div style="position:absolute; left: 220px; top:340px;">
-  <img src="images/twitter-xxl.png" width="100px;" style="background:none; border:none; box-shadow:none;">
-  <div style="position:absolute; left: 120px; top:40px;">@arokem
-  </div>
-</div>
-<div style="position:absolute; left: 220px; top:460px;">
-  <img src="images/github-6-xxl.png" width="100px;" style="background:none; border:none; box-shadow:none;">
-  <div style="position:absolute; left: 120px; top:40px;">github.com/arokem
-  </div>
-</div>
+
+# Questions?
+
+---
+
+# Let's introduce ourselves
+
+Name, where from, one point of expertise
+
+--
+
+"I am Ariel Rokem; I am a data scientistt at the University of Washington, in Seattle; I know how to analyze diffusion MRI data"
