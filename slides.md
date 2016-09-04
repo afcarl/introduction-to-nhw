@@ -127,7 +127,8 @@ Attributed to Jeff Hammerbacher and DJ Patil (LinkedIn, circa 2008)
 
 <image src="images/eScience_Logo_PMS.png" height=150px>
 
-**Open** and **reproducible** science
+--
+## **Open** and **reproducible** science
 
 ---
 
