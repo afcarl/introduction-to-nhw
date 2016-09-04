@@ -125,6 +125,13 @@ Attributed to Jeff Hammerbacher and DJ Patil (LinkedIn, circa 2008)
 
 ---
 
+### And in neuroimaging?
+
+<image src="images/vanhorn-toga-2014.png" height=400px>
+<p><small>Van Horn and Toga (2014)</small></p>
+
+---
+
 <image src="images/eScience_Logo_PMS.png" height=150px>
 
 ## **Open** and **reproducible** science
@@ -231,6 +238,63 @@ layout: true
 <image src="images/escience-network.png" width=500px style="opacity:0.4;filter:alpha(opacity=40);"> </div>
 
 ---
+
+class: center, middle
+
+### What's with all the Python?
+
+---
+### Python
+
+--
+
+- Free and Open Source
+
+--
+
+- Executable pseudocode: easy to write...
+
+--
+
+- ... and easy to read
+
+--
+
+- The scipy/pydata ecosystem
+
+---
+
+#### Open-source science: the scientific Python eco-system
+
+<image src="images/python-ecosystem1.png" height=500px>
+
+---
+
+#### Open-source science: the scientific Python eco-system
+
+<image src="images/python-ecosystem2.png" height=500px>
+
+---
+
+#### Open-source science: the scientific Python eco-system
+
+<image src="images/python-ecosystem3.png" height=500px>
+
+---
+
+#### Open-source science: the scientific Python eco-system
+
+<image src="images/python-ecosystem4.png" height=500px>
+
+---
+
+### Neuroimaging in Python
+
+<a href="http://nipy.org/"><image src="images/nipy-logo.png" height="40%"></a>
+
+---
+
+
 
 ### Now some of you might be thinking
 
