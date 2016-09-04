@@ -126,6 +126,9 @@ Attributed to Jeff Hammerbacher and DJ Patil (LinkedIn, circa 2008)
 ---
 
 <image src="images/eScience_Logo_PMS.png" height=150px>
+
+**Open** and **reproducible** science
+
 ---
 
 ### Data science in academia
@@ -134,9 +137,9 @@ Attributed to Jeff Hammerbacher and DJ Patil (LinkedIn, circa 2008)
 
 #### <a href="http://msdse.org/">Moore-Sloan Data Science Environments</a>
 
-We're grateful for additional support for this through NIH grants
+We're also grateful for additional support for Neurohackweek through NIH grants
 
-to Tal Yarkoni, Satra Ghosh and the Nipype team, and Russ Poldrack
+to Tal Yarkoni, to Satra Ghosh and the Nipype team, and to Russ Poldrack
 
 ---
 
