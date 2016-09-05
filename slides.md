@@ -42,7 +42,7 @@ layout: true
 
 --
 
-- ... telling each other about our research
+- ... hearing and telling each other about our research
 
 --
 
@@ -123,6 +123,8 @@ Attributed to Jeff Hammerbacher and DJ Patil (LinkedIn, circa 2008)
 ---
 
 <image src="images/fourth-paradigm.png" height=300px>
+
+--
 
 <image src="images/norvig.png" height=300px>
 
