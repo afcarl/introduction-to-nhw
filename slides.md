@@ -22,7 +22,7 @@ layout: true
 
 --
 
-(but tell that to the Seattle weather)
+(hoping the Seattle weather complies)
 
 --
 
