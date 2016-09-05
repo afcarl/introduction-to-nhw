@@ -70,7 +70,10 @@ layout: true
 
 --
 
-- and many others...
+- [Software Carpentry](http://software-carpentry.org/)
+
+--
+- [The Hacker Within](http://www.thehackerwithin.org/)
 
 ---
 
