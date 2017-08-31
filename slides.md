@@ -1,7 +1,8 @@
 class: center, middle
 
 ### **Welcome to**
-## **Neurohackweek**
+## **Neurohackweek 2017**
+### The Summer Institute for Neuroimaging and Data Science
 
 <small>Follow along at: <a href="https://neurohackweek.github.io/introduction-to-nhw">neurohackweek.github.io/introduction-to-nhw</small>
 
@@ -149,9 +150,12 @@ Attributed to Jeff Hammerbacher and DJ Patil (LinkedIn, circa 2008)
 
 #### <a href="http://msdse.org/">Moore-Sloan Data Science Environments</a>
 
-We're also grateful for additional support for Neurohackweek through NIH grants
+--
 
-to Tal Yarkoni, to Satra Ghosh and the Nipype team, and to Russ Poldrack
+We're grateful for support for SINDS through a grant from the NIMH
+
+<image src="images/nimh-logo.png" height=100px>
+
 
 ---
 
@@ -161,7 +165,19 @@ to Tal Yarkoni, to Satra Ghosh and the Nipype team, and to Russ Poldrack
 - Lectures in the mornings
 - Hackathon in the afternoons
 - Breakout sessions in the afternoons
+- More hackathon in the evenings
 - Other activities ... up to you!
+
+---
+
+class: center
+layout: false
+
+# Don't forget to take a walk outside every once in a while!
+
+--
+
+Assuming it doesn't rain
 
 ---
 
@@ -169,9 +185,9 @@ layout: true
 
 ---
 
-### <a href="https://neurohackweek.github.io/nhw2016/#schedule">This week</a>
+### <a href="https://neurohackweek.github.io/nhw2017/#schedule">This week</a>
 
-<iframe src="https://neurohackweek.github.io/nhw2016/#schedule" height="500" width="800"></iframe>
+<iframe src="https://neurohackweek.github.io/nhw2017/#schedule" height="500" width="800"></iframe>
 
 ---
 
@@ -225,15 +241,16 @@ layout: true
 
 ### Today (DS tutorials)
 
-| Time | Room 1 (C520) | Room 2 (DSS SR) | Room 3 (DSS MR) |
-|:------------- |:-------:|:-------:|:-------:|
-| 11 AM - noon | Docker (CG) | Advanced Unix and Make (TM) | Unix shell (VS) |
-| noon - 1 PM | -- | **Lunch** | -- |
-| 1 - 2 PM | Python tips and tricks (TY) | Git/Github 1 (BH) | Python 1 (AR) |
-| 2 - 3 PM | IPython tips and tricks (FP) | Git/Github 2 (BH)| Python 2 (AR) |
-| 3 - 4 PM | Advanced data manipulation (TY) | Software testing (SG) | Python 1 (VS)|
-| 4 - 5 PM | Spark (JF) | Advanced Unix and Make (TM) | Python 2 (VS) |
-| 5 - 6 PM | Data visualization (TY)| Cython (AR) | Software testing (CG) |
+| Time | Room 1 (DSS SR) | Room 2 (DSS MR) |
+|:------------- |:-------:|:-------:|
+| 10 - noon | Russ Poldrack:
+| noon - 1 PM | **Lunch** | -- |
+| 1 - 2 PM | Unix shell (VS) | Best practices in SC (CG) |
+| 2 - 3 PM | Unix shell (VS) | Best practices in SC (CG) |
+| 3 - 4 PM | git/Github (BH))| Visualization with D3 (AK)|
+| 4 - 5 PM | git/Github (BH) | Jupyter (DN)|
+| 5 - 6 PM | Python  (TY)| R (JM) |
+| 6 - 7 PM | Python  (TY)| R (JM) |
 
 ---
 
