@@ -243,7 +243,7 @@ layout: true
 
 | Time | Room 1 (DSS SR) | Room 2 (DSS MR) |
 |:------------- |:-------:|:-------:|
-| 10 - noon | Russ Poldrack:
+| 10 - noon | Russ Poldrack: Reproducibility in fMRI: What is the problem?
 | noon - 1 PM | **Lunch** | -- |
 | 1 - 2 PM | Unix shell (VS) | Best practices in SC (CG) |
 | 2 - 3 PM | Unix shell (VS) | Best practices in SC (CG) |
