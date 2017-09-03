@@ -15,7 +15,7 @@ layout: true
 
 ---
 
-### README
+## README
 
 - These slides: https://neurohackweek.github.io/introduction-to-nhw
 - [A neurohackweek user's guide](https://github.com/neurohackweek/nhw2017/blob/gh-pages/README.md)
@@ -23,6 +23,12 @@ layout: true
 ---
 
 ## What is this thing?
+
+<div style="position: absolute; left: 100px; top: 370px;">
+<image src="images/creative-brain.jpg" height=200px>
+<br>
+(thanks to twitter user @hardmaru)
+</div>
 
 5 day workshop ...
 
@@ -38,9 +44,10 @@ layout: true
 
 ... hackathon ...
 
+
 ---
 
-#### Neuroimaging and Data Science
+## Neuroimaging and Data Science
 
 <div style="position: absolute; left: 650px; top: 370px;">
 <image src="images/escience-network.png" width=500px style="opacity:0.4;filter:alpha(opacity=40);"> </div>
@@ -251,12 +258,6 @@ If something doesn't work for you, log into our Jupyterhub:
 
 ---
 
-class: center, middle
-layout: false
-
-
----
-
 # Thanks!
 
 We're grateful for support for SINDS through a grant from the NIMH
@@ -275,7 +276,7 @@ We are also grateful to the [Jupyter](http://jupyter.org) team for their collabo
 
 # Let's introduce ourselves
 
-Name, where from, one point of expertise
+Name, where from, one thing you know/enjoy, one thing you'd like to learn more about.
 
 --
 
