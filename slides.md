@@ -15,77 +15,55 @@ layout: true
 
 ---
 
-### What is this all about?
+### README
 
---
-
-- It's a summer school...
-
---
-
-(hoping the Seattle weather complies)
-
---
-
-- ...but also an (un)conference...
-
---
-
-- ...and, lest we forget, a *hackathon*
+- These slides: https://neurohackweek.github.io/introduction-to-nhw
+- [A neurohackweek user's guide](https://github.com/neurohackweek/nhw2017/blob/gh-pages/README.md)
 
 ---
 
-### So we will be...
+## What is this thing?
+
+5 day workshop ...
 
 --
 
-- ... learning
+... conference ...
 
 --
 
-- ... hearing and telling each other about our research
+... summer school ...
 
 --
 
-- ... and hacking together!
+... hackathon ...
 
 ---
 
-### It's inspired by a few other events
-
---
-
-- [Astrohackweek](http://astrohackweek.org/)
-
---
-
-- [Brainhack](http://brainhack.org)
-
---
-
-- [Code Neuro](http://codeneuro.org/)
-
---
-
-- [DataKind datadives](http://www.datakind.org/)
-
---
-
-- [Software Carpentry](http://software-carpentry.org/)
-
---
-- [The Hacker Within](http://www.thehackerwithin.org/)
-
----
-
-class: center, middle
-layout: false
-
-
-#### "Neuroimaging and Data Science"
+#### Neuroimaging and Data Science
 
 <div style="position: absolute; left: 650px; top: 370px;">
 <image src="images/escience-network.png" width=500px style="opacity:0.4;filter:alpha(opacity=40);"> </div>
+
+--
+
+Tools and practices for:
+
+--
+
+### Open
+
+--
+
+### Reproducible
+
+--
+
+### Data-intensive
+
+--
+
+## Neuroscience
 
 ---
 
@@ -96,7 +74,7 @@ layout: true
 
 ---
 
-### A few words about "data science"
+### Data science
 
 What's that?
 
@@ -117,7 +95,7 @@ Attributed to Jeff Hammerbacher and DJ Patil (LinkedIn, circa 2008)
 - Multidisciplinary investigations (25%)
 - Models and methods for data (20%)
 - Computing with data (15%)
-- Pedagogy (15%) (<= does data-visualization count?)
+- Pedagogy (15%)
 - Tool evalutation (5%)
 - Theory (20%)
 
@@ -131,16 +109,10 @@ Attributed to Jeff Hammerbacher and DJ Patil (LinkedIn, circa 2008)
 
 ---
 
-### And in neuroimaging?
+### For example
 
 <image src="images/vanhorn-toga-2014.png" height=400px>
 <p><small>Van Horn and Toga (2014)</small></p>
-
----
-
-<image src="images/eScience_Logo_PMS.png" height=150px>
-
-## **Open** and **reproducible** science
 
 ---
 
@@ -152,10 +124,7 @@ Attributed to Jeff Hammerbacher and DJ Patil (LinkedIn, circa 2008)
 
 --
 
-We're grateful for support for SINDS through a grant from the NIMH
-
-<image src="images/nimh-logo.png" height=100px>
-
+<image src="images/eScience_Logo_PMS.png" height=150px>
 
 ---
 
@@ -168,78 +137,58 @@ We're grateful for support for SINDS through a grant from the NIMH
 - More hackathon in the evenings
 - Other activities ... up to you!
 
+[Schedule](https://neurohackweek.github.io/nhw2017/#schedule)
+
+[Really Detailed schedule](https://github.com/neurohackweek/nhw2017#schedule)
+
 ---
 
-class: center
+### Course faculty
+
+* [Bing Brunton](http://faculty.washington.edu/bbrunton/) (University of Washington)
+* [Nicholas Cain](https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/nicholas-cain) (Allen Institute for Brain Sciences)
+* [Satra Ghosh](http://satra.cogitatum.org/) (MIT)
+* [Chris Gorgolewski](https://plus.google.com/+ChrisFiloGorgolewski/about) (Stanford University)
+* [Bernease Herman](http://escience.washington.edu/people/bernease-herman/) (UW eScience)
+* [Anisha Keshavan](http://www.github.com/akeshavan/) (University of Washington)
+* [Tara Madhyastha](http://ibic.washington.edu/madhyastha) (University of Washington)
+* [Jeanette Mumford](http://mumford.fmripower.org/) (University of Wisconsin, Madison)
+* [Dylan Nielson](https://ngsp.osu.edu/people/dylan.nielson) (NIMH)
+* [Russ Poldrack](https://poldracklab.stanford.edu/) Stanford University
+* [JB Poline](https://neurohackweek.github.io/) (McGill University / MNI)
+* [Ariel Rokem](http://arokem.org) (UW eScience)
+* [Valentina Staneva](http://escience.washington.edu/people/valentina-staneva/) (UW eScience)
+* [Jake Vanderplas](http://staff.washington.edu/jakevdp/) (UW eScience)
+* [Tal Yarkoni](https://talyarkoni.org) (University of Texas at Austin)
+
+---
+
+### Interaction and collaboration are not optional!
+
+Much of the week depends on collaborating with other participants and with the instructors.
+
+--
+
+If you need some peace and quiet, duck into one of the side rooms in the Data Scnience Studio, but if you are in the main space, be up for a conversation!
+
+--
+
+(important caveat: eScience people)
+
+---
+
+### Our code of conduct
+
+We are committed to providing a harassment-free environment to all participants.
+
+To ensure this, we expect standards of [conduct](https://github.com/neurohackweek/nhw2017/blob/gh-pages/README.md#code-of-conduct).
+
+Certain behaviors are not acceptable and will not be tolerated.
+
+---
 layout: false
 
-# Don't forget to take a walk outside every once in a while!
-
---
-
-Assuming it doesn't rain
-
----
-
-layout: true
-
----
-
-### <a href="https://neurohackweek.github.io/nhw2017/#schedule">This week</a>
-
-<iframe src="https://neurohackweek.github.io/nhw2017/#schedule" height="500" width="800"></iframe>
-
----
-
-### This is a bit of an experiment
-
---
-
-- Based on the theory of <a href="https://en.wikipedia.org/wiki/Inquiry-based_learning">Inquiry-based learning</a>
-
---
-
-- The hypothesis : learning by doing is fun and effective
-
---
-
-(but <a href="http://www.cogtech.usc.edu/publications/kirschner_Sweller_Clark.pdf">might not work for novices</a>)
-
---
-
-- Diversity of backgrounds and expertise can be challenging in traditional learning settings, but is helpful in inquiry-based learning.
-
---
-
-(we welcome suggestions on measurements we should be making to test these hypotheses)
-
----
-
-### So...
-
-- Have fun!
-
---
-
-- Ask questions!
-
---
-
-- Meet new people!
-
---
-
-- We're all here to learn!
-
----
-
-### Locations:
-
-<iframe src="https://neurohackweek.github.io/nhw2016/img/map.html" height="500" width="500"></iframe>
-
----
-
-### Today (DS tutorials)
+### Today's schedule
 
 | Time | Room 1 (DSS SR) | Room 2 (DSS MR) |
 |:------------- |:-------:|:-------:|
@@ -261,61 +210,17 @@ layout: true
 
 ---
 
-class: center, middle
+### Software setup
 
-### What's with all the Python?
-
----
-### Python
+Maybe you already [installed](https://neurohackweek.github.io/nhw2017/setup/) everything?
 
 --
 
-- Free and Open Source
+If something doesn't work for you, log into our Jupyterhub:
 
---
-
-- Executable pseudocode: easy to write...
-
---
-
-- ... and easy to read
-
---
-
-- The scipy/pydata ecosystem
+[https://neurohackweek.github.io/Jupyterhub](https://neurohackweek.github.io/Jupyterhub)
 
 ---
-
-#### Open-source science: the scientific Python eco-system
-
-<image src="images/python-ecosystem1.png" height=500px>
-
----
-
-#### Open-source science: the scientific Python eco-system
-
-<image src="images/python-ecosystem2.png" height=500px>
-
----
-
-#### Open-source science: the scientific Python eco-system
-
-<image src="images/python-ecosystem3.png" height=500px>
-
----
-
-#### Open-source science: the scientific Python eco-system
-
-<image src="images/python-ecosystem4.png" height=500px>
-
----
-
-### Neuroimaging in Python
-
-<a href="http://nipy.org/"><image src="images/nipy-logo.png" height="40%"></a>
-
----
-
 
 
 ### Now some of you might be thinking
@@ -337,7 +242,12 @@ class: center, middle
 - "When they figure out, they probably won't want to work with me"
 
 --
-### (please) banish these thoughts!
+
+### The imposter syndrome is real
+
+--
+
+### But we're all here to learn!
 
 ---
 
@@ -345,9 +255,23 @@ class: center, middle
 layout: false
 
 
-# Questions?
+---
+
+# Thanks!
+
+We're grateful for support for SINDS through a grant from the NIMH
+
+<image src="images/nimh-logo.png" height=50px>
+
+And to the Moore/Sloan Foundations for supporting eScience
+
+We are also grateful to the [Jupyter](http://jupyter.org) team for their collaboration in setting up our Jupyterhub (shoutout to @choldgraf and @yuvipanda)
 
 ---
+
+# Questions?
+
+--
 
 # Let's introduce ourselves
 
@@ -355,4 +279,4 @@ Name, where from, one point of expertise
 
 --
 
-"I am Ariel Rokem; I am a data scientist at the University of Washington, in Seattle; I know how to analyze diffusion MRI data"
+"I am Ariel Rokem; I am a data scientist at the University of Washington, in Seattle; I enjoy analyzing diffusion MRI data; I am interested in learning more about Javascript"
