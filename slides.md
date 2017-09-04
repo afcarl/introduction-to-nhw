@@ -227,7 +227,7 @@ Maybe you already [installed](https://neurohackweek.github.io/nhw2017/setup/) ev
 
 If something doesn't work for you, log into our Jupyterhub:
 
-[https://neurohackweek.github.io/Jupyterhub](https://neurohackweek.github.io/Jupyterhub)
+[https://neurohackweek.github.io/jupyterhub](https://neurohackweek.github.io/jupyterhub)
 
 ---
 
