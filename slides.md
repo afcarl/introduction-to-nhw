@@ -22,8 +22,6 @@ layout: true
 
 ---
 
-## What is this thing?
-
 <div style="position: absolute; left: 100px; top: 370px;">
 <image src="images/creative-brain.jpg" height=200px>
 <br>
@@ -268,7 +266,7 @@ We're grateful for support for SINDS through a grant from the NIMH
 
 <image src="images/nimh-logo.png" height=50px>
 
-And to the Moore/Sloan Foundations for supporting eScience
+And to the Moore/Sloan Foundations for supporting the eScience Institute
 
 We are also grateful to the [Jupyter](http://jupyter.org) team for their collaboration in setting up our Jupyterhub (shoutout to @choldgraf and @yuvipanda)
 
