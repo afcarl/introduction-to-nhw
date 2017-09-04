@@ -156,6 +156,7 @@ Attributed to Jeff Hammerbacher and DJ Patil (LinkedIn, circa 2008)
 * [Nicholas Cain](https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/nicholas-cain) (Allen Institute for Brain Sciences)
 * [Satra Ghosh](http://satra.cogitatum.org/) (MIT)
 * [Chris Gorgolewski](https://plus.google.com/+ChrisFiloGorgolewski/about) (Stanford University)
+* [Chris Holdgraf](http://predictablynoisy.com/) (UC Berkeley)
 * [Bernease Herman](http://escience.washington.edu/people/bernease-herman/) (UW eScience)
 * [Anisha Keshavan](http://www.github.com/akeshavan/) (University of Washington)
 * [Tara Madhyastha](http://ibic.washington.edu/madhyastha) (University of Washington)
@@ -197,16 +198,19 @@ layout: false
 
 ### Today's schedule
 
+After this: coffee break
+
+10 - 12  Russ Poldrack: Reproducibility in fMRI: What is the problem?
+
 | Time | Room 1 (DSS SR) | Room 2 (DSS MR) |
 |:------------- |:-------:|:-------:|
-| 10 - noon | Russ Poldrack: Reproducibility in fMRI: What is the problem?
-| noon - 1 PM | **Lunch** | -- |
-| 1 - 2 PM | Unix shell (VS) | Best practices in SC (CG) |
-| 2 - 3 PM | Unix shell (VS) | Best practices in SC (CG) |
-| 3 - 4 PM | git/Github (BH))| Visualization with D3 (AK)|
-| 4 - 5 PM | git/Github (BH) | Jupyter (DN)|
-| 5 - 6 PM | Python  (TY)| R (JM) |
-| 6 - 7 PM | Python  (TY)| R (JM) |
+| 12 - 1 | **Lunch** | -- |
+| 1 - 2 | Unix shell 1 (Valentina) | Best practices in scientific computing: Software containers/Docker (CG) |
+| 2 - 3 | Unix shell 1 (Valentina) | Best practices in scientific computing: Software testing (CG)|
+| 3 - 4 | git/Github (BH))| Visualization with D3 (AK)|
+| 4 - 5 | git/Github (BH) | Jupyter (DN)|
+| 5 - 6 | Python  (TY)| R (JM) |
+| 6 - 7 | Python  (TY)| R (JM) |
 
 ---
 
